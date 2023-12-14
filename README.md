@@ -1,4 +1,4 @@
-Ex-7 -css :
+# Ex-07-CSS
 ```
 Name:RAMESH RENUKA
 Ref.no: 23009428
@@ -416,4 +416,4 @@ lightmode:
 
 darkmode:
 
-![image](https://github.com/keerthanapillaram/ODD2023-WT-Ex-07-CSS/assets/145743072/a062ba68-143e-4cef-b6de-51c30ccc7ac9)# Ex-07-CSS
+![image](https://github.com/keerthanapillaram/ODD2023-WT-Ex-07-CSS/assets/145743072/a062ba68-143e-4cef-b6de-51c30ccc7ac9)
